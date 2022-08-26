@@ -1,0 +1,39 @@
+.ownData--flex {
+  display: flex;
+  justify-content: space-between;
+}
+.ownData--description--title {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
+  color: #21243D;
+  width: 440px;
+  padding-bottom: 40px;
+}
+.ownData--description--text {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #21243D;
+  width: 497px;
+  padding-bottom: 38px;
+}
+.ownData--description--button {
+  background: #FF6464;
+  border: none;
+  padding: 9px 20px;
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  color: #FFFFFF;
+  margin-bottom: 70px;
+}
+.resentPosts{
+  background-color: #EDF7FA;
+}
